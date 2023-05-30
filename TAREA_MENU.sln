@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TAREA_MENU", "TAREA_MENU\TAREA_MENU.csproj", "{EA44A3E4-56F7-4501-A6CE-96649AAB64F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA44A3E4-56F7-4501-A6CE-96649AAB64F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA44A3E4-56F7-4501-A6CE-96649AAB64F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA44A3E4-56F7-4501-A6CE-96649AAB64F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA44A3E4-56F7-4501-A6CE-96649AAB64F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA3276E-73D3-46E7-BDD5-C526E7590434}
+	EndGlobalSection
+EndGlobal
